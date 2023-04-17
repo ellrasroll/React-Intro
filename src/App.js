@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <h1>My main Component</h1>
-      {/* <img src={lfcImg} alt="lfc badge" /> */}
+      <img src={lfcImg} alt="lfc badge" />
       <Person name="Dan" age="34" jobTitle="Chef" profilePic ={lfcImg}/>
       <Person name="Joe" age="30 something" jobTitle="Gardener"/>
       <Person name="Sam" age="21" jobTitle="Software Developer"/>
